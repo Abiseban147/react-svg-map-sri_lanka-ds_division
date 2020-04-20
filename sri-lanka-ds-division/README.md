@@ -4,7 +4,7 @@ Contains all Divisional Secretariats in Northern Province & Eastren Province of 
 
 # Northern Province
 
-* * Jaffna District 
+# # Jaffna District 
 
 * Island North (Kayts)
 * Karainagar
@@ -22,7 +22,7 @@ Contains all Divisional Secretariats in Northern Province & Eastren Province of 
 * Island South (Velanai)
 * Delft
 
-* * Mannar District
+# # Mannar District
 
 * Mannar Town
 * Manthai West
@@ -30,7 +30,7 @@ Contains all Divisional Secretariats in Northern Province & Eastren Province of 
 * Nanattan
 * Musali
 
-* * Vavuniya District 
+# # Vavuniya District 
 
 * Vavuniya North
 * Vavuniya South
@@ -56,7 +56,7 @@ Contains all Divisional Secretariats in Northern Province & Eastren Province of 
 # Eastren Province
 
 
-* * Batticaloa District
+# # Batticaloa District
 
 * Koralai Pattu North (Vaharai)
 * Koralai Pattu Central
@@ -73,7 +73,7 @@ Contains all Divisional Secretariats in Northern Province & Eastren Province of 
 * Poratheevu Pattu
 * Manmunai South & Eruvil Pattu
 
-* * Ampara District	
+# # Ampara District	
 
 * Dehiattakandiya
 * Padiyathalawa
@@ -96,7 +96,7 @@ Contains all Divisional Secretariats in Northern Province & Eastren Province of 
 * Pottuvil
 * Lahugala
 
-* * Trincomalee District
+# # Trincomalee District
 
 * Padavi Sri Pura
 * Kuchchaveli
