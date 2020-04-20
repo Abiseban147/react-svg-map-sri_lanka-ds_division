@@ -1,6 +1,6 @@
 # 🇱🇰 Sri Lanka
 
-Contains all Divisional Secretariats in Northern Province & Eastren Province of Sri Lanka:
+Contains all Divisional Secretariats in Northern Province & Eastern Province of Sri Lanka:
 
 # Northern Province
 
@@ -37,7 +37,7 @@ Contains all Divisional Secretariats in Northern Province & Eastren Province of 
 * Vavuniya
 * Vengalacheddikulam
 
-* * Mullaitivu District
+# # Mullaitivu District
 
 * Thunukkai
 * Manthai East (Pandiyankulam)
@@ -46,14 +46,14 @@ Contains all Divisional Secretariats in Northern Province & Eastren Province of 
 * Maritimepattu
 * Welioya
 
-* * Kilinochchi District
+# # Kilinochchi District
 
 * Pachchilaipalli
 * Kandavalai
 * Karachchi
 * Poonakary
 
-# Eastren Province
+# Eastern Province
 
 
 # # Batticaloa District
