@@ -1,0 +1,20 @@
+{
+  "name": "@svg-maps/sri-lanka",
+  "version": "1.0.0",
+  "description": "Map of Divisional Secretariats in Northern Province & Eastren Province of Sri Lanka",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/sri-lanka-ds-division"
+  },
+  "keywords": [
+    "svg",
+    "map",
+    "ds-division",
+    "sri-lanka"
+  ],
+  "author": "Abiseban Pirapaharan <abiseban@gmail.com>",
+  "publishConfig": {
+    "access": "public"
+  }
+}
